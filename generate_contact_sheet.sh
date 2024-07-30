@@ -1,3 +1,3 @@
 #!/bin/bash
 
-montage 'emojis/*[0]' all.png
+./magick montage 'emojis/*[0]' all.png
